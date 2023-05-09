@@ -1,0 +1,20 @@
+
+.box {
+    background-color: peachpuff;
+    color: black;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+}
+#don {
+    background-color: tomato;
+    color: black;
+    font-size: 40px;
+}
+#intro:hover {
+    background-color: rgb(30, 110, 179);
+}
+div > div:hover {
+    background-color: aliceblue;
+}
